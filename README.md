@@ -1,16 +1,16 @@
-### Hi there 👋
+/README.md
+💫 About Me:
 
-<!--
-**nileshtanchak/nileshtanchak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Flutter, and Node.js developer with experience in various technologies and frameworks. I have expertise in working with Firebase, Supabase, MongoDB, REST API, socket connections. I also have knowledge of communication apps like Slack, Jira, GitHub, GitLab, and Asana.
 
-Here are some ideas to get you started:
+Visiters
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Socials:
+
+Instagram Facebook Twitter LinkedIn GitHub
+
+💻 Tech Stack:
+
+Flutter Android Node.js Firebase Supabase MongoDB REST API Socket.io
+
+NileshTanchak's Top Languages
