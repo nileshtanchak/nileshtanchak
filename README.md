@@ -7,9 +7,9 @@ Visiters
 
 🌐 Socials:
 
-Instagram, Facebook, Twitter, LinkedIn, [GitHub](https://github.com/nileshtanchak/nileshtanchak)
+[LinkedIn](https://www.linkedin.com/feed/), [GitHub](https://github.com/nileshtanchak/nileshtanchak)
 
 💻 Tech Stack:
 
-Flutter, Android, Node.js, Firebase, Supabase, MongoDB, REST API, Socket.io
+Flutter, Android, NODE.JS, Firebase, Supabase, MongoDB, REST API, Socket.io
 
