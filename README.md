@@ -43,6 +43,20 @@ I am a Flutter, and Node.js developer with experience in various technologies an
   </a>
 </p>
 
+---
+
+## 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nileshtanchak&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nileshtanchak&theme=vue" />
+</p>
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+
+---
+[![](https://visitcount.itsvg.in/api?id=nileshtanchak&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 ---
 ## 🌱 Open to Work:
