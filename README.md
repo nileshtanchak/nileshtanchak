@@ -55,9 +55,5 @@ I am a Flutter, and Node.js developer with experience in various technologies an
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nileshtanchak&icon=0&color=1)](https://visitcount.itsvg.in)
-
-
----
 ## 🌱 Open to Work:
 If you have an interesting project or job opportunity, feel free to reach out to me.
